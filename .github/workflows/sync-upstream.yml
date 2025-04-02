@@ -32,6 +32,9 @@ jobs:
       - name: Fetch upstream
         run: git fetch upstream
 
+      - name: Pull from origin
+        run: git pull origin main --rebase
+
       - name: Pull from upstream
         run: git pull upstream main --allow-unrelated-histories --rebase
 

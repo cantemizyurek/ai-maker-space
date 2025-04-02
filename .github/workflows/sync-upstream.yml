@@ -38,5 +38,8 @@ jobs:
       - name: Pull from upstream
         run: git pull upstream main --allow-unrelated-histories --rebase
 
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
       - name: Push changes
         run: git push origin main

@@ -36,7 +36,6 @@ jobs:
 
       - name: Rebase onto upstream
         run: git rebase upstream/main
-
       - name: Pull latest changes from remote
         run: git pull origin main
 

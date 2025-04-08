@@ -2,6 +2,11 @@
 
 Explain the concept of object-oriented programming in simple terms to a complete beginner.
 
+## Aspect Tested
+
+- [x] 🧠 Theoretical Understanding
+- [x] 📝 Clarity of Communication
+
 ## Answer
 
 Of course! Imagine you're playing with a box of building blocks. Each block can be thought of as an "object." In object-oriented programming (OOP), we use a similar idea to organize and structure our code.
@@ -19,3 +24,7 @@ Encapsulation: This is about keeping things neat and tidy. An object keeps its p
 Polymorphism: This is a fancy word that means "many shapes." It allows objects to be treated as instances of their parent class, even if they behave differently. For example, both a "Car" and a "Bicycle" might be "Vehicles," but they move in different ways. Polymorphism lets you use them interchangeably while still respecting their unique behaviors.
 
 In summary, object-oriented programming helps us organize code by using objects that represent real-world things, making it easier to understand, reuse, and maintain.
+
+## Feedback
+
+The answer is clear and concise, and the concepts are well-explained. However, the answer could be improved by providing more examples and real-world applications of object-oriented programming.

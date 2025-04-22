@@ -1,0 +1,5 @@
+1. Introduction to Linear Regression
+2. Why Linear Regression Matters in Data Analysis
+3. Key Concepts: Line of Best Fit, Coefficients, and Interpretability
+4. Real-World Applications (e.g., sales forecasting, risk assessment)
+5. Final Thought: Simplicity and Power in Predictive Analytics

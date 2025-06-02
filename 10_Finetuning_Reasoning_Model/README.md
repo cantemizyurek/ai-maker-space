@@ -10,10 +10,13 @@
 | [Session 10: Pre-Work](https://www.notion.so/Session-10-Fine-Tuning-LLMs-Reasoning-Models-1c8cd547af3d815dba2cf9d2b4c0a325?pvs=4#1c8cd547af3d81dc9d7bc1fb2ba9f9cd) | [Session 10: Fine-Tuning LLMs & Reasoning Models ](https://www.notion.so/Session-10-Fine-Tuning-LLMs-Reasoning-Models-1c8cd547af3d815dba2cf9d2b4c0a325) | [Recording](https://us02web.zoom.us/rec/share/tTywDHtoclKDsQVpslumuMISE9Q2kdht_ORTy-fjAgKXRDSmcmZ2ceb5-B6IiNjN.4EL-SfqznEhcTdSs) (.Xn6c0$S)  | [Session 10 Slides](https://www.canva.com/design/DAGjaVT_Bh0/QTzaTZGFTkQiHLylBTjpWw/edit?utm_content=DAGjaVT_Bh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Session 10: Fine-Tuning LLMs & Reasoning Models](https://forms.gle/3NHvkcoDm6LyWhWQ9) | [AIE6 Feedback 5/1](https://forms.gle/VrY27ndkZdNEF5nFA) |
 
 
+<<<<<<< HEAD
 ### NOTEBOOK
 
 https://colab.research.google.com/drive/1bT4WLf1j4S9CJQg1VgXD1trRtvLy6QYL?usp=sharing
 
+=======
+>>>>>>> 773786fa013f1300968e0183946b5726f298e4ee
 In today's assignment, we'll be fine-tuning Llama 3.1 8B to create a reasoning model!
 
 - 🤝 Breakout Room #1
